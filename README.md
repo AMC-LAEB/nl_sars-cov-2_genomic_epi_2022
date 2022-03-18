@@ -1,1 +1,5 @@
-# nl_sars-cov-2_genomic_epi_2022
+# Custom scripts for Han et al. (2022)
+---
+
+## Citation
+---

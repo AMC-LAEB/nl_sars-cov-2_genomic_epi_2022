@@ -1,8 +1,8 @@
 # Custom scripts for Han et al. (2022)
 ---
-This repository contains custom codes and data used to analyse the importation risks and within-country transmission dynamics of SARS-CoV-2 variants of concern in the Netherlands. The original manuscript describing this work can be found [here](https://doi.org/10.1101/2022.03.21.22272611), currently cited as a pre-print:
+This repository contains custom codes and data used to analyse the importation risks and within-country transmission dynamics of SARS-CoV-2 variants of concern in the Netherlands. The original manuscript describing this work has been published in eLife and can be found [here](https://doi.org/10.7554/eLife.78770):
 
-> Han, A.X., Kozanli, E., Koopsen, J., Vennema, H., RIVM COVID-19 molecular epidemiology group, Hajji, K., Kroneman, A., van Walle, I., Klinkenberg, D., Wallinga J., Russell, C.A., Eggink, D., Reusken, C.B.E.M. (2022). Regional importation and asymmetric within-country spread of SARS-CoV-2 variants of concern in the Netherlands. _medRxiv_, 2022.03.21.22272611.
+> Alvin X Han, Eva Kozanli, Jelle Koopsen, Harry Vennema, RIVM COVID-19 molecular epidemiology group, Karim Hajji, Annelies Kroneman, Ivo van Walle, Don Klinkenberg, Jacco Wallinga, Colin A Russell, Dirk Eggink, Chantal Reusken (2022) Regional importation and asymmetric within-country spread of SARS-CoV-2 variants of concern in the Netherlands eLife 11:e78770.
 
 ---
 
